@@ -34,3 +34,5 @@ Citizen.Wait(1000)
 exports['fs_interactionmenu']:HideInteraction()
 ```
 
+MY DISCORD: https://discord.gg/GNHm3jS8Vt
+
